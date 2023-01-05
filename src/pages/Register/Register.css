@@ -1,0 +1,12 @@
+
+
+.container{
+    margin: 36px !important;
+    display: block;
+    margin: auto;
+    margin-top: 36px;
+    border: 1px solid lightblue;
+    padding: 12px;
+    width: 50%;
+}
+
